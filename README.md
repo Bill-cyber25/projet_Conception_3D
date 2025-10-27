@@ -9,4 +9,9 @@ utiliser dans ce projet.
 2) Le joueur qui tente de sortir en suivant la map.
 3) Les murs qui apparaissent selon le champ de vision du joueur.
 # Utilisation:
-Lancer le fichier 
+- Lancer le fichier labyrinthe.pde.
+- Appyer sur commencer.
+- appuyer sur pause et revener continuer
+# Auteurs:
+DIALLO Bilguissou et FESQUET Emilie
+
